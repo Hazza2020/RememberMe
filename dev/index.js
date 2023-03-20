@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("document.getElementById(\"demo\").innerHTML = \"Hello JavaScript\";\n\n//# sourceURL=webpack://Remember_Me/./src/index.js?");
+eval("document.getElementById(\"demo\").innerHTML = \"Hello World\";\n\n//# sourceURL=webpack://Remember_Me/./src/index.js?");
 
 /***/ })
 
